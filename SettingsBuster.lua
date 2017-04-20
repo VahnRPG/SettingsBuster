@@ -1,5 +1,6 @@
-SetCVar("TargetPriorityAllowAnyOnScreen", 0);
-SetCVar("TargetNearestUseOld", 1);
+--SetCVar("TargetPriorityAllowAnyOnScreen", 0);
+--SetCVar("TargetNearestUseOld", 1);
+--SetCVar("TargetPriorityIncludeBehind", 0);
 SetCVar("nameplateMaxDistance", 40);
 SetCVar("autoLootDefault", 1);
 SetCVar("nameplateResourceOnTarget", 0);
@@ -14,7 +15,7 @@ SetCVar("nameplateShowFriendlyGuardians", 1);
 SetCVar("nameplateShowFriendlyPets", 1);
 SetCVar("nameplateShowFriendlyPets", 1);
 SetCVar("nameplateShowSelf", 0);
-SetCVar("cameraDistanceMaxFactor", 2.6);
+SetCVar("cameraDistanceMaxZoomFactor", 2.6);
 SetCVar("UnitNameFriendlySpecialNPCName", "0");
 SetCVar("UnitNameHostleNPC", "0");
 SetCVar("UnitNameInteractiveNPC", "0");
