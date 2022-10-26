@@ -1,15 +1,15 @@
-## Interface: 70200
+## Interface: 100000
 ## Title: SettingsBuster
 ## Author: Lord Vashtal
-## Version: 1.0.1
-## X-Date: 2017-04-20
+## Version: 1.0.3
+## X-Date: 2022-10-25
 ## Notes: Set default settings in WoW
 ## X-Category: Interface Enhancements
 ## X-Website: http://www.curse.com/addons/wow/settingsbuster
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## SavedVariables: SettingsBusterOptions
-## X-Curse-Packaged-Version: 1.0.1
+## X-Curse-Packaged-Version: 1.0.3
 ## X-Curse-Project-Name: SettingsBuster
 ## X-Curse-Project-ID: settingsbuster
 ## X-Curse-Repository-ID: wow/settingsbuster/mainline
